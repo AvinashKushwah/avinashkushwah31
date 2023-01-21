@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @avinashkushwah31
-- 👀 I’m interested in Machine learning
+- 👋 Hi, I’m @avinashahah
+- 👀 I’m interested in Machine learning and Algorithms.
 -  🌱 I’m currently persuing master's in computer sceince and engineering from IIT Madras.
 
 
